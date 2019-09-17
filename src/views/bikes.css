@@ -1,0 +1,13 @@
+
+  .nextLoginButtonContainer input {
+    cursor: pointer;
+  }
+
+  .cardsContainer {
+    justify-content: center;
+    padding-left: 3vw;
+  }
+
+  h2{
+    text-align: center;
+  }
