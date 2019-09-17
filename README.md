@@ -6,7 +6,9 @@ In the project directory, you can run:
 
 First clone the project and run the following commands to initialize the project in your local machine
 
-### `npm instal`
+### `npm install`
+
+Installs all the npm modules used in this project
 
 ### `npm start`
 
