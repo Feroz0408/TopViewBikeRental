@@ -1,8 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project in created using React
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+First clone the project and run the following commands to initialize the project in your local machine
+
+### 'npm instal'
 
 ### `npm start`
 
