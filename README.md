@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 First clone the project and run the following commands to initialize the project in your local machine
 
-### 'npm instal'
+### `npm instal`
 
 ### `npm start`
 
